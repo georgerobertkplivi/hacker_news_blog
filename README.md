@@ -4,8 +4,8 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/hacker-news-tests.git
-   cd hacker-news-tests
+   git clone https://github.com/georgerobertkplivi/hacker_news_blog.git
+   cd hacker-news-blog
    ```
 
 2. Install dependencies:
@@ -65,4 +65,9 @@ If you prefer to run the steps manually:
 
 - If you encounter issues with missing libraries for WebKit, make sure you've installed the system dependencies mentioned in the Setup section.
 - If the Allure report doesn't open automatically, you can find the HTML report in the `allure-report` directory and open `index.html` manually in your browser.
+
+
+## Run tests with Allure
+
+![alt text](image.png)
 
